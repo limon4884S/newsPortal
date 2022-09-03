@@ -1,0 +1,39 @@
+.button{
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.button:hover{
+    background: rgb(134, 124, 223);
+}
+.hrl{
+    border-bottom: 1px solid rgb(189, 172, 172);
+    margin-bottom: 20px;
+}
+
+.special-img{
+    height: 200px;
+}
+.details{
+    font-size: 13px;
+}
+.author-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 42px;
+}
+.author{
+    margin-left: 10px;
+}
+.sec-1{
+    background-color: rgb(201, 211, 212);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    font-style: italic;
+    border-radius: 5px;
+}
+#newsNumber{
+    color: red;
+}
